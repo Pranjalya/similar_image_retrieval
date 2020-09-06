@@ -10,9 +10,10 @@
 3. Having trained, we store the intermediate latent vectors for the images.
 4. For similar image retrieval, I have demonstrated 2 approaches:
   1. *Using Euclidean Distance*
-    - Compute the Euclidean distance betwen the image you want to search for and other images.
-    - Return the n closest images with least distances.
+      - Compute the Euclidean distance betwen the image you want to search for and other images.
+      - Return the n closest images with least distances.
+    
   2. *Using Clustering approach*
-    - Cluster the latent vectors using K Means or MiniBatch K Means.
-    - Get the images from the cluster for the image you want to retrieve.
-    - [ToDo] Add elbow technique to get a better intuition to the number of clusters.
+      - Cluster the latent vectors using K Means or MiniBatch K Means.
+      - Get the images from the cluster for the image you want to retrieve.
+      - [ToDo] Add elbow technique to get a better intuition to the number of clusters.
