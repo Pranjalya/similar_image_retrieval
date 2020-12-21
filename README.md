@@ -1,4 +1,4 @@
-# Similar Image Retrieval
+# Similar Image Retrieval System
 
 *You can find the Google Colaboratory notebook [here](https://colab.research.google.com/github/Pranjalya/similar_image_retrieval/blob/master/Image_Retrieval.ipynb)*
 
